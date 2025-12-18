@@ -1,0 +1,1 @@
+"Hola, este contenido se copiará de un archivo a otro"
